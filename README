@@ -1,0 +1,13 @@
+BioKernels: kernels based on biological sequence data.
+
+This package allows the user to create some biological kernels i.e. kernels based in a series of biological measures: 
+BLAST alignment, Smith-Waterman alignment, PFAM domain search and hydropathy pattern recognition. 
+
+Unfortunatelly, it is still only available for GNU/Linux systems.
+
+Current version is version 1.0 (2015-06-16).
+
+The package can easily be installed by typing the following command: R CMD INSTALL BioKernels_1.0.tar.gz
+
+Author: Maitena Tellaetxe Abete <maitena.tellaetxe@upf.edu>
+Maintainer: Maitena Tellaetxe Abete <maitena.tellaetxe@upf.edu>
